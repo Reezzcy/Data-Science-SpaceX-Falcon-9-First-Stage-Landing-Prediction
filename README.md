@@ -1,7 +1,7 @@
 # Data-Science-SpaceX-Falcon-9-First-Stage-Landing-Prediction
 IBM Applied Data Science Capstone
 
-## Project Desciption
+## Project Description
 
 In this capstone project, we will predict whether the Falcon 9 first stage will land successfully. SpaceX, a leading space company, offers Falcon 9 rocket launches at a much lower cost than other providers, at around 62 million dollars. One of the main reasons for the lower cost is SpaceX's ability to reuse the first stage of the Falcon 9 rocket after launch.
 
